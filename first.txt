@@ -1,1 +1,2 @@
-Git is free software.
+Git is a free software.
+Today is first day for using Git.
